@@ -1,1 +1,3 @@
-# PRO-C28-CRUMPLED-BALLS---3
+Features of this Stage 
+The background of the project updates based on time.
+The blocks vanish on coming in contact with the slingshot.
